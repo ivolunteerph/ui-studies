@@ -1,7 +1,7 @@
 		<div class="container">
 			<div class="col-md-3 col-sm-3">
 				<ul class="nav nav-pills nav-stacked user-nav">
-					<li><a href="#">Dashboard</a></li>
+					<li><a href="#">Dashboard HEllo</a></li>
 					<li><a href="#">Events</a></li>
 					<li><a href="#">Organizations</a></li>
 					<li><a href="#">Profile</a></li>
