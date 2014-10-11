@@ -167,11 +167,13 @@ label.checkbox-label:hover{
 	background:#15abff;
 	color:#fff;	
 }
-.register.btn{
+.register.btn,
+.volunteer.btn{
 	background:#15abff;
 	color:#fff;
 }
-.register.btn:hover{
+.register.btn:hover,
+.volunteer.btn:hover{
 	background:#09f;
 }
 
@@ -223,7 +225,8 @@ label.checkbox-label:hover{
 #homeHero .head{
 	margin:10px 0 16px;
 }
-#homeHero .register.btn{
+#homeHero .register.btn,
+#homeHero .volunteer.btn{
 	font-size:22px;
 	padding:16px;
 }

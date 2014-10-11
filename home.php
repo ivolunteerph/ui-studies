@@ -2,7 +2,23 @@
 	        <div class="container">
 	        	<p class="hero-stack-1">Inspire Others. Change Lives.</p>
 				<h1 class="hero-stack-2 head"><strong>Be a Volunteer today.</strong></h1>
-				<p><a href="" class="btn btn-lg btn-primary register">Register</a>
+				<p><a href="" class="btn btn-lg btn-primary <?php
+			if($_GET['login'] == "true"){
+				echo("volunteer"); 
+			} 
+			else 
+			{
+				echo("register");
+			}
+		?>"><?php
+			if($_GET['login'] == "true"){
+				echo("Volunteer Now"); 
+			} 
+			else 
+			{
+				echo("Register");
+			}
+		?></a>
 	        </div>
         </div>
        
