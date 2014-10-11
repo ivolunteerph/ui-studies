@@ -246,6 +246,9 @@ label.checkbox-label:hover{
 /*
  * Profile
  */
+.single #account .form-group.current-password{
+	display:none;
+}
 
 
 
