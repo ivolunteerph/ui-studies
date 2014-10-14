@@ -150,7 +150,8 @@ label.checkbox-label:hover{
 	border:none;
 }
 .navbar-brand{
-	padding:5px 15px;
+	padding:0 15px 5px;
+	margin-top:-4px;
 }
 #header .navbar-nav a:hover{
 	background:#f2f2f2;
