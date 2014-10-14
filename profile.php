@@ -152,6 +152,15 @@
 								</label>
 							</div>
 						</div>
+			        	<div class="form-group marital-status">
+							<label for="maritalStatus">Marital Status</label>
+							<select id="maritalStatus" name="" onchange="" class="form-control">
+								<option value="Single">Single</option>
+								<option value="Married">Married</option>
+								<option value="Separated">Separated or Divorced</option>
+								<option value="Widowed">Widowed</option>
+							</select>
+						</div>
 						<div class="form-group city">
 							<label for="city">City</label>
 							<input type="text" id="city" placeholder="City" class="form-control">
