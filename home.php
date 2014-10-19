@@ -22,33 +22,84 @@
 	        </div>
         </div>
        
-		<div id="home-categories">
-			<div class="container" class="clearfix"><div class="col-md-12">
-				<h1 class="head">Volunteer Opportunities</h1>
-				<p>iVolunteer aims to gather volunteers from all over the Philippines to help out others who are in need. <strong>
-Volunteers can choose the activities they want to participate in.</strong> <a href="" class="">View all volunteer opportunities</a></p>
-				<div class="home-category">
-					<h3 class="head">Children and Youth</h3>
-					<p>Biodiesel drinking vinegar bespoke Intelligentsia hella deep v.</p>
+		<div id="home-vo" class="grid-list">
+			<div class="container" class="clearfix">
+				<div class="col-md-12">
+					<h1 class="head">Volunteer Opportunities</h1>
+					<p>iVolunteer aims to gather volunteers from all over the Philippines to help out others who are in need. <strong>
+	Volunteers can choose the activities they want to participate in.</strong> <a href="" class="">View all volunteer opportunities</a></p>
 				</div>
-				<div class="home-category">
-					<h3 class="head">Education</h3>
-					<p>Wolf gluten-free artisan Helvetica selfies Kickstarter, heirloom 8-bit.</p>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="list-item">
+						<a class="list-item-link" href="#hello">
+							<div class="list-image">
+								<img class="img-responsive" src="http://ivolunteer.com.ph/system/images/391/medium/2013-03-23_08.39.22.jpg?1406245874" alt="Feeding, Brain Booster and Wound Care at Helping Land Tondo Manila on September 6, 2014 by Project Pearls">
+							</div><!--/.list-image-->
+							<div class="list-details">
+								<ul class="details-list">
+									<li class="detail-item vo-title item-title">Feeding, Brain Booster and Wound Care</li>
+									<li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Helping Land Tondo Manila </li>
+									<li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> Sept 6, 2014, 07:00 AM - 12:30 PM </li>
+									<li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> Organization:	Project Pearls</li>
+								</ul>
+							</div><!--/.list-details-->
+						</a>
+					</div>
 				</div>
-				<div class="home-category">
-					<h3 class="head">Environment</h3>
-					<p>Butcher Blue Bottle squid meh chambray gastropub. </p>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="list-item">
+						<a class="list-item-link" href="#hello">
+							<div class="list-image">
+								<img class="img-responsive" src="http://ivolunteer.com.ph/system/images/423/small/DSC4125.jpg?1409542302" alt="Feeding, Brain Booster and Wound Care at Helping Land Tondo Manila on September 6, 2014 by Project Pearls">
+							</div><!--/.list-image-->
+							<div class="list-details">
+								<ul class="details-list">
+									<li class="detail-item vo-title item-title">Feeding</li>
+									<li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Helping Land Tondo Manila </li>
+									<li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> Sept 6, 2014, 07:00 AM - 12:30 PM </li>
+									<li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> Organization:	Project Pearls</li>
+								</ul>
+							</div><!--/.list-details-->
+						</a>
+					</div>
 				</div>
-				<div class="home-category">
-					<h3 class="head">Health</h3>
-					<p>Brunch farm-to-table tilde, you probably haven't heard of them messenger bag yr Pinterest.</p>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="list-item">
+						<a class="list-item-link" href="#hello">
+							<div class="list-image">
+								<img class="img-responsive" src="http://ivolunteer.com.ph/system/images/391/medium/2013-03-23_08.39.22.jpg?1406245874" alt="Feeding, Brain Booster and Wound Care at Helping Land Tondo Manila on September 6, 2014 by Project Pearls">
+							</div><!--/.list-image-->
+							<div class="list-details">
+								<ul class="details-list">
+									<li class="detail-item vo-title item-title">Feeding, Brain Booster and Wound Care and Wound Care and Wound Care</li>
+									<li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Helping Land Tondo Manila, Philippines </li>
+									<li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> Sept 6, 2014, 07:00 AM - 12:30 PM </li>
+									<li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> Organization:	Project Pearls</li>
+								</ul>
+							</div><!--/.list-details-->
+						</a>
+					</div>
 				</div>
-				<div class="home-category">
-					<h3 class="head">Poverty</h3>
-					<p>Cray Helvetica DIY, put a bird on it fap Neutra pour-over American Apparel gentrify.</p>
+				<div class="col-lg-3 col-md-6 col-sm-6">
+					<div class="list-item">
+						<a class="list-item-link" href="#hello">
+							<div class="list-image">
+								<img class="img-responsive" src="http://ivolunteer.com.ph/system/images/391/medium/2013-03-23_08.39.22.jpg?1406245874" alt="Feeding, Brain Booster and Wound Care at Helping Land Tondo Manila on September 6, 2014 by Project Pearls">
+							</div><!--/.list-image-->
+							<div class="list-details">
+								<ul class="details-list">
+									<li class="detail-item vo-title item-title">Feeding, Brain Booster and Wound Care</li>
+									<li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Helping Land Tondo Manila </li>
+									<li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> Sept 6, 2014, 07:00 AM - 12:30 PM </li>
+									<li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> Organization:	Project Pearls</li>
+								</ul>
+							</div><!--/.list-details-->
+						</a>
+					</div>
 				</div>
-				<div class="home-category view-all">
-					<h3 class="head"><a href="">View all Volunteer Opportunities.</a></h3>
+				
+				<div class="col-md-12">
+					<div class="text-center"><a href="" class="btn btn-info">View more Volunteer Opportunities</a></div>
 				</div>
-			</div></div>
+			</div>
 		</div>
