@@ -127,10 +127,12 @@ body{
 /*
  * Forms
  */
+label{
+	cursor:pointer;
+}
 label.checkbox-label{
 	display:block;
 	font-weight:normal;
-	cursor:pointer;
 	padding-left:5px;
 }
 label.checkbox-label:hover{
@@ -254,14 +256,142 @@ label.checkbox-label:hover{
 	display:none;
 }
 
+/*
+ * Event Listings
+ */
+.grid-list .list-item{
+	margin-bottom:10px;
+}
+.grid-list .list-item-link{
+	background:#eee;
+	padding:15px;
+	display:block;
+	color:#999;
+}
+.grid-list .list-item-link:hover{
+	background:#ddd;
+	text-decoration:none;
+}
+.grid-list .list-image{
+	text-align:center;
+	height:202px;
+	line-height:200px;
+	background:#ddd;
+	border:1px solid #ccc;
+}
+.grid-list .list-image img{
+	max-height:200px;
+	overflow:hidden;
+	vertical-align:middle;
+	display:inline-block;
+}
+.details-list{
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.detail-item{
+	margin-top:5px;
+	font-size:12px;
+	display:block;
+	overflow:hidden;
+	white-space: nowrap;
+	text-overflow:ellipsis;
+}
+.detail-item .fa{
+	color:#666;
+}
+.item-title{
+	color:#333;
+	font-size:16px;
+	margin-top:10px;
+	height:45px;
+	overflow:hidden;
+	display:block;
+	white-space: normal;
+}
+.search-vo{
+	margin:18.7px 0;
+}
+.list-filters{
+	background:#333;
+	margin-bottom:10px;
+}
+.list-filters .filter-item{
+	padding:10px;
+}
+.filter-btn.collapsed .hide-filters{
+	display:none;
+}
+.list-filters label{
+	color:#ddd;
+	font-weight:normal;
+}
+/*
+ * Event / Volunteer Opportunity Details
+ */
+.detail-img,
+.detail-action{
+	margin-top:21px;
+}
+.detail-img{
+	text-align:center;
+	background:#eee;
+	padding:10px;
+}
+.detail-img img{
+	max-height:200px;
+	overflow:hidden;
+	display:inline-block;
+}
+.short-details{
+	background:#eee;
+	padding:10px 10px 20px;
+}
+.event-detail .detail-item{
+	display:inline-block;
+	margin-right:5px;
+}
+.detail-action{
+	padding:15px;
+}
+.detail-action .time-left{
+}	
+.volunteer-need{
+	font-size:22px;
+}
+.vo-detail .volunteer-btn{
+	margin:10px 0;
+}
 
-
-
-
-
-
-
-
+/*
+ * Dashboard
+ */
+.event-list .list-item{
+	border-top:1px dashed #ccc;
+}
+.event-list .list-item:hover{
+	background:#eee;
+}
+.event-list .list-item a{
+	color:#999;
+	display:block;
+	overflow:hidden;
+	padding:15px 0;
+	text-decoration:none;
+}
+.event-list .list-item span{
+	display:block;
+	padding:0 25px;
+}
+.event-list .list-item .item-title{
+	margin-top:0;
+}
+.event-list .list-item .item-date{
+}
+.event-list .list-item .fa{
+	color:#666;
+}
 
 
 
@@ -394,6 +524,12 @@ label.checkbox-label:hover{
 	}
 	.single #header{
 		padding-top:50px;
+	}
+}
+@media only screen and (min-width: 992px) {
+	.vo-detail .detail-item{
+		display:block;
+		margin-right:0;
 	}
 }
 
