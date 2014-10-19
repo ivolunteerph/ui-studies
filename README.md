@@ -14,3 +14,5 @@ UI Design Studies
 * Update Profile - http://ivolunteer.ph/ui/index.php?file=profile&login=true
 * Account Settings - http://ivolunteer.ph/ui/index.php?file=account&login=true
 * Dashboard Page - http://ivolunteer.ph/ui/index.php?file=dashboard&login=true
+* VOpps Listings Page - http://ivolunteer.ph/ui/index.php?file=events&login=true
+* VOpps Details Page - http://ivolunteer.ph/ui/index.php?file=vo-detail&login=true
