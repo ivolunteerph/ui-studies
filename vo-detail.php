@@ -25,6 +25,7 @@
 					<div class="detail-action bg-info">
 						<span class="volunteer-need"><i class="fa-flag-o fa"></i> <strong>10</strong> Volunteers needed</span>
 						<a href="" class="btn btn-success btn-lg btn-block volunteer-btn">Volunteer</a>
+						<a href="" class="btn btn-default btn-lg btn-block volunteer-btn disabled">Already joined</a>
 						<div class="volunteer-need-sub">
 							<span class="text-muted time-left"><span class="badge">4</span> days left</span> &bull;
 							<span class="text-muted volunteer-count"><span class="badge">10</span> already volunteered</small>	
