@@ -15,10 +15,10 @@
 					</div><!--/.detail-img-->
 					<div class="short-details">
 						<ul class="details-list">
-							<li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Helping Land Tondo Manila </li>
-							<li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> Sept 6, 2014, 07:00 AM - 12:30 PM </li>
-							<li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> Organization:	Project Pearls</li>
-						</ul>
+			                <li class="detail-item vo-location item-location"><i class="fa fa-fw fa-location-arrow"></i> Gawad Kalinga Bgy. Laura, Bagumbayan, Taguig City. </li>
+			                <li class="detail-item vo-date item-date"><i class="fa fa-fw fa-calendar"></i> October 25, 2014 </li>
+			                <li class="detail-item vo-org item-org"><i class="fa fa-fw fa-users"></i> U! Happy Events </li>
+			            </ul>
 					</div><!--/.short-details-->
 				</div>
 				<div class="col-md-4 col-md-push-5">

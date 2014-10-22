@@ -527,6 +527,7 @@ label.checkbox-label:hover{
 	}
 }
 @media only screen and (min-width: 992px) {
+	.event-detail .detail-item,
 	.vo-detail .detail-item{
 		display:block;
 		margin-right:0;
