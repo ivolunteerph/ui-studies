@@ -363,28 +363,35 @@ label.checkbox-label:hover{
 .vo-detail .volunteer-btn{
 	margin:10px 0;
 }
+.volunteer-btn{
+	display:block;
+	margin: 10px 0
+}
+.detail-action .event-done{
+	padding:15px;
+}
 
 /*
  * Dashboard
  */
-.event-list .list-item{
+#dashboard .event-list .list-item{
 	border-top:1px dashed #ccc;
 }
-.event-list .list-item:hover{
+#dashboard .event-list .list-item:hover{
 	background:#eee;
 }
-.event-list .list-item a{
+#dashboard .event-list .list-item a{
 	color:#999;
 	display:block;
 	overflow:hidden;
 	padding:15px 0;
 	text-decoration:none;
 }
-.event-list .list-item span{
+#dashboard .event-list .list-item span{
 	display:block;
 	padding:0 25px;
 }
-.event-list .list-item .item-title{
+#dashboard .event-list .list-item .item-title{
 	margin-top:0;
 }
 .event-list .list-item .item-date{

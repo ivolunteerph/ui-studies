@@ -25,6 +25,7 @@
 					<div class="detail-action bg-info">
 						<span class="volunteer-need"><i class="fa-flag-o fa"></i> <strong>10</strong> Volunteers needed</span>
 						<a href="" class="btn btn-success btn-lg btn-block volunteer-btn">Volunteer</a>
+						<h2 class="bg-warning text-lg text-center event-done">Event Done</h2>
 						<a href="" class="btn btn-default btn-lg btn-block volunteer-btn disabled">Already joined</a>
 						<div class="volunteer-need-sub">
 							<span class="text-muted time-left"><span class="badge">4</span> days left</span> &bull;
