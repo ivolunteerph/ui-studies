@@ -536,8 +536,16 @@ label.checkbox-label:hover{
 @media only screen and (min-width: 992px) {
 	.event-detail .detail-item,
 	.vo-detail .detail-item{
-		display:block;
-		margin-right:0;
+		display: block;
+		margin-right: 0;
+		white-space: normal;
+		padding-left: 20px;
+		position:relative;
+	}
+	.event-detail .detail-item .fa,
+	.vo-detail .detail-item .fa{
+		position:absolute;
+		left:0;
 	}
 }
 
