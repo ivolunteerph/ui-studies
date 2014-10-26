@@ -372,33 +372,64 @@ label.checkbox-label:hover{
 }
 
 /*
- * Dashboard
+ * Dashboard, Events, & Orgs
  */
-#dashboard .event-list .list-item{
+.event-list.linear-list .list-item,
+.org-list.linear-list .list-item{
 	border-top:1px dashed #ccc;
 }
-#dashboard .event-list .list-item:hover{
+.event-list.linear-list .list-item:hover,
+.org-list.linear-list .list-item:hover{
 	background:#eee;
 }
-#dashboard .event-list .list-item a{
+.event-list.linear-list .list-item a,
+.org-list.linear-list .list-item a{
 	color:#999;
 	display:block;
 	overflow:hidden;
 	padding:15px 0;
 	text-decoration:none;
 }
-#dashboard .event-list .list-item span{
+.event-list.linear-list .list-item span{
 	display:block;
 	padding:0 25px;
 }
-#dashboard .event-list .list-item .item-title{
+.event-list.linear-list .list-item .item-title{
 	margin-top:0;
+	height:auto;
 }
-.event-list .list-item .item-date{
+.event-list.linear-list .list-item .item-date{
 }
-.event-list .list-item .fa{
+.event-list.linear-list .list-item .fa{
 	color:#666;
 }
+.org-list.linear-list .list-item a{
+	position:relative;
+}
+.org-list.linear-list .item-image{
+	border:1px solid #ccc;
+	width:50px;
+	height:50px;
+	display:inline-block;
+	margin:0 10px; 
+}
+.org-list.linear-list .item-image img{
+	max-width:50px;
+	max-height:50px;
+}
+.org-list.linear-list .item-title,
+.org-list.linear-list .item-image{
+	display:block;
+}
+.org-list.linear-list .item-title{
+	margin-top:0;
+	position:absolute;
+	left:75px;
+	vertical-align:middle;
+	top:15px;
+}
+
+
 
 
 
