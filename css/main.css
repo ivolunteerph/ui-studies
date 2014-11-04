@@ -370,6 +370,9 @@ label.checkbox-label:hover{
 .detail-action .event-done{
 	padding:15px;
 }
+.volunteer-list{
+	font-size:12px;
+}
 
 /*
  * Dashboard, Events, & Orgs
@@ -562,6 +565,9 @@ label.checkbox-label:hover{
 	}
 	.single #header{
 		padding-top:50px;
+	}
+	.volunteer-list{
+		font-size:14px;
 	}
 }
 @media only screen and (min-width: 992px) {

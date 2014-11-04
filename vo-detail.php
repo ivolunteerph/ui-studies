@@ -8,7 +8,7 @@
 					</ol>
 					<h1 class="head"> Feeding, Brain Booster and Wound Care</h1>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-3 col-sm-6">
 					<div class="detail-img">
 						<img class="img-responsive" src="http://ivolunteer.com.ph/system/images/391/medium/2013-03-23_08.39.22.jpg?1406245874" alt="Feeding, Brain Booster and Wound Care at Helping Land Tondo Manila on September 6, 2014 by Project Pearls">
 
@@ -21,7 +21,7 @@
 			            </ul>
 					</div><!--/.short-details-->
 				</div>
-				<div class="col-md-4 col-md-push-5">
+				<div class="col-md-4 col-sm-6 col-md-push-5">
 					<div class="detail-action bg-info">
 						<span class="volunteer-need"><i class="fa-flag-o fa"></i> <strong>10</strong> Volunteers needed</span>
 						<a href="" class="btn btn-success btn-lg btn-block volunteer-btn">Volunteer</a>
@@ -33,7 +33,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-md-5 col-md-pull-4">
+				<div class="col-md-5 col-sm-12 col-md-pull-4">
 					<div class="description">
 						<p class="lead">Project PEARLS focuses its outreach efforts in the slum communities in Tondo, Manila, particularly in ULINGAN and Helping Land. Both communities sit on a dumpsite where children have no choice but to live with garbage, mosquitoes, flies, and vermin. Children and families in Ulingan also live on soot and around toxic smoke from the charcoal factories.</p>
 						
@@ -57,6 +57,8 @@
 						
 						<p><em>We also encourage you to buy our iVolunteer Philippines T-shirt to support our volunteerism portal. Just contact Hazel at +639285521415 or through contactus@ivolunteer.com.ph. Thanks!</em></p>
 					</div>
+				</div>
+				<div class="col-md-12 col-sm-12">
 					<div class="volunteer-list">
 						<div class="panel panel-default">
 							<div class="panel-heading">Volunteer List</div>
@@ -64,31 +66,34 @@
 								<thead>
 									<tr>
 										<th>#</th>
-										<th>First Name</th>
-										<th>Last Name</th>
+										<th>Name</th>
+										<th>Email</th>
+										<th>Mobile No.</th>
 									</tr>
 								</thead>
 								<tbody>
 									<tr>
 										<td>1</td>
-										<td>Mark</td>
-										<td>Otto</td>
+										<td>User Number1</td>
+										<td>user1@example.com</td>
+										<td>09123456789</td>
 									</tr>
 									<tr>
 										<td>2</td>
-										<td>Jacob</td>
-										<td>Thornton</td>
+										<td>User Number2</td>
+										<td>user3@example.com</td>
+										<td>09123456789</td>
 									</tr>
 									<tr>
 										<td>3</td>
-										<td>Larry</td>
-										<td>the Bird</td>
+										<td>User Number3</td>
+										<td>user3@example.com</td>
+										<td>09123456789</td>
 									</tr>
 								</tbody>
 							</table>
 						</div>
 					</div>
 				</div>
-				
 			</div>
 		</div>
