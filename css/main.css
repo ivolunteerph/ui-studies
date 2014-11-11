@@ -432,9 +432,16 @@ label.checkbox-label:hover{
 	top:15px;
 }
 
-
-
-
+/*
+ * View Profile
+ */
+.profile-list .list{
+	margin:0;
+}
+.profile-list dd,
+.profile-list dt{
+	margin-top:5px;
+}
 
 
 /* ==========================================================================
@@ -568,6 +575,9 @@ label.checkbox-label:hover{
 	}
 	.volunteer-list{
 		font-size:14px;
+	}
+	.description p:first-child{
+		font-size:21px;
 	}
 }
 @media only screen and (min-width: 992px) {
