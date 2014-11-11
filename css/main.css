@@ -373,6 +373,9 @@ label.checkbox-label:hover{
 .volunteer-list{
 	font-size:12px;
 }
+.description p:first-child{
+	font-size:16px;
+}
 
 /*
  * Dashboard, Events, & Orgs
