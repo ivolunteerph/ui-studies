@@ -6,7 +6,7 @@
 						<li><a href="#">Volunteer Opportunities</a></li>
 						<li class="active">Feeding, Brain Booster and Wound Care</li>
 					</ol>
-					<h1 class="head"> Feeding, Brain Booster and Wound Care</h1>
+					<h1 class="head"> Feeding, Brain Booster and Wound Care <a href="" class="btn btn-sm btn-default"><i class="fa fa-wrench"></i> Edit</a></h1>
 				</div>
 				<div class="col-md-3 col-sm-6">
 					<div class="detail-img">
