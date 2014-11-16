@@ -396,9 +396,20 @@ label.checkbox-label:hover{
 	padding:15px 0;
 	text-decoration:none;
 }
-.event-list.linear-list .list-item span{
+.event-list.linear-list .item-title,
+.event-list.linear-list .item-location,
+.event-list.linear-list .item-date{
 	display:block;
 	padding:0 25px;
+}
+.manage-events .list-item .item-title,
+.manage-events .list-item .item-location,
+.manage-events .list-item .item-date,
+.manage-events .list-item .item-date{
+	padding:0 15px;
+}
+.manage-events .list-item .action-btns{
+	padding:0 15px 15px;
 }
 .event-list.linear-list .list-item .item-title{
 	margin-top:0;
@@ -406,7 +417,8 @@ label.checkbox-label:hover{
 }
 .event-list.linear-list .list-item .item-date{
 }
-.event-list.linear-list .list-item .fa{
+.event-list.linear-list .item-location .fa,
+.event-list.linear-list .item-date .fa{
 	color:#666;
 }
 .org-list.linear-list .list-item a{
@@ -581,6 +593,9 @@ label.checkbox-label:hover{
 	}
 	.description p:first-child{
 		font-size:21px;
+	}
+	.manage-events .list-item .action-btns{
+		padding:15px;
 	}
 }
 @media only screen and (min-width: 992px) {
